@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Pastor
 - 👀 I’m interested in `C/C++`
-- 🌱 I’m currently learning `Rust`
+- 🌱 I’m currently learning `Rust` and `Ada`
 - 📫 How to reach me: write to `viruszold@mail.ru`
